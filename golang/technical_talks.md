@@ -14,3 +14,4 @@ Contains links to various useful golang talks on youtube
 
 [Go context for timeouts](https://www.youtube.com/watch?v=kaZOXRqFPCw&ab_channel=AnthonyGG)
 
+[Go errors](https://blog.carlmjohnson.net/post/2020/working-with-errors-as/)
