@@ -35,5 +35,8 @@
 ### API Gateways
 - [lura](https://github.com/luraproject/lura)
 
+### TUI
+- [bubbletea](https://github.com/charmbracelet/bubbletea)
+
 ### Software made in Golang
 * [Bagder: Distributed key-value DB](https://github.com/dgraph-io/badger)
