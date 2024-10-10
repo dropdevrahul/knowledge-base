@@ -34,6 +34,7 @@
 
 ### Resilience
 - [go-resilience](https://github.com/eapache/go-resiliency)
+- [semian](https://github.com/Shopify/semian)
 
 ### API Gateways
 - [lura](https://github.com/luraproject/lura)
