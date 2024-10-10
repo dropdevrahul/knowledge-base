@@ -32,6 +32,9 @@
 ### Hacktober fest open source projects
 - [hacktoberfest](https://github.com/topics/hacktoberfest?l=go&o=desc&s=updated)
 
+### Resilience
+- [go-resilience](https://github.com/eapache/go-resiliency)
+
 ### API Gateways
 - [lura](https://github.com/luraproject/lura)
 
