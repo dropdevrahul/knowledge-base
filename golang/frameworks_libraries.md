@@ -25,6 +25,7 @@
 
 ### Testing
 - [testify](https://github.com/stretchr/testify)
+- [go-leaks](https://github.com/uber-go/goleak)
 
 ### Generate mocks for testing
 - [mockery](https://github.com/vektra/mockery)
