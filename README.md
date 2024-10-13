@@ -22,3 +22,4 @@ A collection of technical writings and essays to demonstrate a variety of concep
 
 ### Good Resources/Websites/Links
 - [Bellard](https://bellard.org/)
+- [cmd line tools](https://terminaltrove.com/new/)
