@@ -1,1 +1,2 @@
 - [https://blog.quastor.org/p/scaling-microservices-doordash](https://blog.quastor.org/p/scaling-microservices-doordash)
+- [https://medium.com/paypal-tech/thundering-herd-jitter-63a57b38919d](https://medium.com/paypal-tech/thundering-herd-jitter-63a57b38919d)
